@@ -5,5 +5,5 @@ Just for practice purpose, I will create 1 projects in every single day for 1 mo
 ## Day 01
 
 Simple Image Auto Slider with some informations 
-
+https://logovski.github.io/30-days-30-Javascript-Projects/Day%2001%20-%20Image%20Slider/
 
