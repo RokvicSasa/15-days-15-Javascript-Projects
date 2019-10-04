@@ -6,4 +6,6 @@ Just for practice purpose, I will create 1 projects in every single day for 1 mo
 
 Simple Image Auto Slider with some informations 
 
+## Day 02
 
+Meditation App with some options
