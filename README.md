@@ -9,5 +9,9 @@ Simple Image Auto Slider with some informations<br>
 
 ## Day 02
 
-Meditation App with some options
+Meditation App with some options<br>
+[Preview](https://logovski.github.io/30-days-30-Javascript-Projects/Day%2002%20-%20Meditation%20App/)
 
+## Day 03
+
+Calculator App<br>
