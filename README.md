@@ -21,3 +21,8 @@ Calculator App<br>
 
 Memory Game<br>
 [Preview](https://logovski.github.io/30-days-30-Javascript-Projects/Day%2004%20-%20Memory%20Game/)
+
+## Day 05
+
+Weather Widget (Working With DarkSky Api)<br>
+[Preview](https://logovski.github.io/30-days-30-Javascript-Projects/Day%2005%20-%20Weather%20Widget/)
