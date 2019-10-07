@@ -1,0 +1,90 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #212749;
+  color: #fbfbfb;
+  font-weight: 600;
+}
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+.container {
+  overflow: hidden;
+  padding: 5%;
+}
+.shadow {
+  -webkit-box-shadow: 0px 2px 10px 0px rgba(44,56,26,0.3);
+  -moz-box-shadow: 0px 2px 10px 0px rgba(44,56,26,0.3);
+  box-shadow: 0px 2px 10px 0px rgba(44,56,26,0.3);
+}
+.text-center {
+  text-align: center;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.center {
+  margin: 0 auto;
+}
+.color-white {
+  color: #fff;
+}
+.show {
+  display: block;
+}
+.hide {
+  display: none;
+}
+
+
+.movieapp {
+  margin: 0 auto;
+  width: 355px;
+  height: 665px;
+  background-color: #19203C;
+  border-radius: 15px;
+  position: relative;
+}
+.top-part {
+  width: 100%;
+  height: 32%;
+  background-color: aqua;
+  background-image: url('../images/bg.png');
+  z-index: 1;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.mask {
+  width: 100%;
+  height: 100%;
+  background-color: #202748;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+.select-movie {
+  z-index: 99;
+  position: relative;
+}
+.select-rating {
+  z-index: 99;
+  position: relative;
+}
+.button {
+  z-index: 99;
+  position: relative;
+}
+
+.bottom-part {
+  width: 100%;
+  height: 70%;
+}
