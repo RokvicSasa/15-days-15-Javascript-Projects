@@ -26,3 +26,8 @@ Memory Game<br>
 
 Weather Widget (Working With DarkSky Api)<br>
 [Preview](https://logovski.github.io/30-days-30-Javascript-Projects/Day%2005%20-%20Weather%20App/)
+
+## Day 06
+
+Movie Review App<br>
+[Preview](https://logovski.github.io/30-days-30-Javascript-Projects/Day%2006%20-%20Movie%20Review/)
