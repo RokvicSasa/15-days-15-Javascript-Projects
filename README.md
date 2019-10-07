@@ -15,7 +15,7 @@ Meditation App with some options<br>
 ## Day 03
 
 Calculator App<br>
-[Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2003%20-%20Weather%20App/)
+[Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2003%20-%20Calculator%20App/)
 
 ## Day 04
 
