@@ -16,37 +16,18 @@
     <div class="container">
       <div class="movieapp">
         <div class="top-part">
-          <div class="select-movie">
-            <select>
-              <option value="volvo">Volvo</option>
-              <option value="saab">Saab</option>
-              <option value="opel">Opel</option>
-              <option value="audi">Audi</option>
-            </select>
-          </div>
-
-          <div class="select-rating">
-            <select>
-              <option value="volvo">Volvo</option>
-              <option value="saab">Saab</option>
-              <option value="opel">Opel</option>
-              <option value="audi">Audi</option>
-            </select>
-          </div>         
-          
-          <div class="button">
-            <p>Save Rating</p>
-          </div>
-          
-        <div class="mask"></div>
+          <input class="input-movie" type="text" placeholder="Enter Movie Name">
+          <input class="input-rating" type="number" min="1" max="10" placeholder="Rate">
+          <div class="button pointer"><p>Save Rating</p></div>
+          <div class="mask"></div>
         </div>
         <div class="bottom-part">
 
-          <div class="movie-box">
-            <div class="movie-poster"></div>
+          <div class="movie-box shadow">
+            <div class="movie-poster shadow"><img src="images/alita.jpg" alt=""></div>
             <div class="movie-info">
               <h1 class="movie-title">Alita: Battle Angel (2019)</h1>
-              <h2 class="movie-tags">Action,Adventure,Sci-Fi | 134 min</h2>
+              <h2 class="movie-tags">Action,Adventure,Sci-Fi</h2>
               <div class="rating">
                 <img src="images/star.svg" alt="">
                 <h3>7.3</h3>
@@ -54,7 +35,17 @@
             </div>
           </div>
 
-
+          <div class="movie-box shadow">
+            <div class="movie-poster shadow"><img src="images/playerone.jpg" alt=""></div>
+            <div class="movie-info">
+              <h1 class="movie-title">Ready Player One (2018)</h1>
+              <h2 class="movie-tags">Action,Adventure,Sci-Fi</h2>
+              <div class="rating">
+                <img src="images/star.svg" alt="">
+                <h3>8.5</h3>
+              </div>
+            </div>
+          </div>          
 
         </div>
       </div>

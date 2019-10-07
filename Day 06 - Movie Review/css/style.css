@@ -10,15 +10,16 @@ body {
   box-sizing: border-box;
   margin: 0px;
   padding: 0px;
+  font-weight: 600;
 }
 .container {
   overflow: hidden;
   padding: 5%;
 }
 .shadow {
-  -webkit-box-shadow: 0px 2px 10px 0px rgba(44,56,26,0.3);
-  -moz-box-shadow: 0px 2px 10px 0px rgba(44,56,26,0.3);
-  box-shadow: 0px 2px 10px 0px rgba(44,56,26,0.3);
+-webkit-box-shadow: 0px 2px 5px 0px rgba(17,18,20,0.5);
+-moz-box-shadow: 0px 2px 5px 0px rgba(17,18,20,0.5);
+box-shadow: 0px 2px 5px 0px rgba(17,18,20,0.5);
 }
 .text-center {
   text-align: center;
@@ -41,7 +42,9 @@ body {
 .hide {
   display: none;
 }
-
+.pointer {
+  cursor: pointer;
+}
 
 .movieapp {
   margin: 0 auto;
@@ -50,16 +53,18 @@ body {
   background-color: #19203C;
   border-radius: 15px;
   position: relative;
+  overflow: hidden auto;
 }
 .top-part {
   width: 100%;
   height: 32%;
   background-color: aqua;
   background-image: url('../images/bg.png');
-  z-index: 1;
   position: relative;
   top: 0;
   left: 0;
+  padding: 90px 25px 0px 25px;
+  z-index: 0;
 }
 .mask {
   width: 100%;
@@ -69,22 +74,91 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 10;
+  z-index: -1;
 }
-.select-movie {
-  z-index: 99;
-  position: relative;
+input {
+  height: 42px;
+  background-color: #fff;
+  border: 0px;
+  border-radius: 15px;
+  outline: none;
+  padding-left: 15px;
+  float: left;
 }
-.select-rating {
-  z-index: 99;
-  position: relative;
+.input-movie {
+  width: 65%;
+  margin-right: 5%;
+}
+.input-rating {
+  width: 30%;
+}
+::placeholder {
+  color: #202748;
+  font-size: 14px;
 }
 .button {
-  z-index: 99;
-  position: relative;
+  margin: 0 auto;
+  width: 200px;
+  height: 42px;
+  border: 1px solid #E8B600;
+  background-color: #E8B600;
+  margin-top: 65px;
+  border-radius: 15px;
+  text-align: center;
+  padding-top: 10px;
+  transition: all 0.5s ease;
 }
-
+.button:hover {
+  border: 1px solid #E8B600;
+  background-color: transparent;
+}
 .bottom-part {
+  padding: 0px 25px;
+}
+.movie-box {
   width: 100%;
-  height: 70%;
+  height: 100px;
+  background-color: #202748;
+  border-radius: 5px;
+  position: relative;
+  margin: 60px 0px;
+}
+.movie-poster {
+  width: 95px;
+  height: 140px;
+  border-radius: 5px;
+  position: relative;
+  top: -15px;
+  left: 10px;
+  float: left;
+}
+.movie-poster img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+}
+.movie-info {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  max-width: 170px;
+  width: 100%;
+  padding-left: 20px;
+}
+h1 {
+  font-size: 14px;
+}
+h2 {
+  font-size: 10px;
+  margin: 5px 0px;
+  color: #42557D;
+}
+h3 {
+  font-size: 14px;
+  float: left;
+}
+.rating img {
+  float: left;
+  margin-right: 10px;
+  margin-top: 2px;
 }
