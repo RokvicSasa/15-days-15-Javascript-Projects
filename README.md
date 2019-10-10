@@ -31,3 +31,10 @@ Weather Widget (Working With DarkSky Api)<br>
 
 Movie Review App<br>
 [Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2006%20-%20Movie%20Review/)
+
+## Day 07
+
+Quiz Game<br>
+[Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2007%20-%20Quiz%20Game/)
+
+
