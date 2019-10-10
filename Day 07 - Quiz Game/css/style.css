@@ -1,0 +1,110 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #fbfbfb;
+  color: #FF5270;
+  font-weight: 500;
+}
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-weight: 500;
+}
+.container {
+  overflow: hidden;
+  padding: 5%;
+}
+.app {
+  position: relative;
+}
+.shadow {
+-webkit-box-shadow: 0px 2px 5px 0px rgba(17,18,20,0.1);
+-moz-box-shadow: 0px 2px 5px 0px rgba(17,18,20,0.1);
+box-shadow: 0px 2px 5px 0px rgba(17,18,20,0.1);
+}
+.text-center {
+  text-align: center;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.center {
+  margin: 0 auto;
+}
+.color-white {
+  color: #fff;
+}
+.show {
+  display: block;
+}
+.hide {
+  display: none;
+}
+.pointer {
+  cursor: pointer;
+}
+
+.app {
+  margin: 0 auto;
+  background-color: #FFC100;
+  width: 355px;
+  height: 665px;
+  border-radius: 15px;
+  padding: 25px;
+}
+h1 {
+  color: #fbfbfb;
+  font-size: 23px;
+  margin: 30px 0px;
+}
+.choice {
+  width: 100%;
+  height: 60px;
+  border-radius: 10px;
+  border: 2px solid #fbfbfb;
+  background-color: transparent;
+  padding: 14px 15px;
+  margin: 10px 0px;
+}
+.choice h2 {
+  font-size: 22px;
+}
+.choice img {
+  margin-top: 5px;
+}
+h3 {
+  margin-top: 30px;
+  color: #fbfbfb;
+}
+
+.modal {
+  width: 86%;
+  margin: 0 7%;
+  height: 210px;
+  position: absolute;
+  top: 25%;
+  left: 0;
+  border-radius: 20px;
+  z-index: 9999;
+}
+.modal h4 {
+  color: #fbfbfb;
+  font-size: 25px;
+  margin-top: 29%;
+  margin-bottom: 5%;
+}
+.correct-modal {
+  background-color: #00D6CE;
+}
+.wrong-modal {
+  background-color: #FF5270;
+}
+.modal h5 {
+  color: #fbfbfb;
+  font-size: 20px;
+}
