@@ -39,7 +39,7 @@ Quiz Game<br>
 
 ## Day 08
 
-Joke Generator<br>
+Joke Generator (Api from David_Katz)<br>
 [Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2008-%20Joke%20Generator/)
 
 
