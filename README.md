@@ -37,4 +37,10 @@ Movie Review App<br>
 Quiz Game<br>
 [Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2007%20-%20Quiz%20Game/)
 
+## Day 08
+
+Joke Generator<br>
+[Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2008-%20Joke%20Generator/)
+
+
 
