@@ -1,0 +1,122 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #0D0C0E;
+  color: #ECECF1;
+  font-weight: 500;
+  background-image: url('../images/bg.jpg');
+}
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-weight: 500;
+  font-size: 20px;
+}
+.container {
+  overflow: hidden;
+  padding: 5%;
+}
+.app {
+  position: relative;
+}
+.shadow {
+-webkit-box-shadow: 0px 2px 5px 0px rgba(17,18,20,0.1);
+-moz-box-shadow: 0px 2px 5px 0px rgba(17,18,20,0.1);
+box-shadow: 0px 2px 5px 0px rgba(17,18,20,0.1);
+}
+.text-center {
+  text-align: center;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.center {
+  margin: 0 auto;
+}
+.color-white {
+  color: #fff;
+}
+.show {
+  display: block;
+}
+.hide {
+  display: none;
+}
+.pointer {
+  cursor: pointer;
+}
+.mask {
+  z-index: 9;
+  background-color: #0D0C0E;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.8;
+}
+
+.app {
+  z-index: 9999;
+}
+.logo {
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+.logo img {
+  margin-bottom: 30px;
+}
+.button {
+  border: 1px solid #7D92FA;
+  background-color: #7D92FA;
+  width:250px;
+  height:50px;
+  margin: 0 auto;
+  border-radius: 5px;
+  padding-top: 15px;
+  margin-top: 50px;
+  transition: all 300ms;
+}
+.button p {
+  font-size: 18px;
+}
+.button:hover {
+  border: 1px solid #7D92FA;
+  background-color: transparent;
+}
+
+#spinner{
+  visibility: hidden;
+  width: 80px;
+  height: 80px;
+
+  border: 2px solid #f3f3f3;
+  border-top:3px solid #f25a41;
+  border-radius: 100%;
+
+  position: absolute;
+  top:80px;
+  bottom:0;
+  left:0;
+  right: 0;
+  margin: auto;
+
+  animation: spin 1s infinite linear;
+}
+
+@keyframes spin {
+  from {
+      transform: rotate(0deg);
+  } to {
+      transform: rotate(360deg);
+  }
+}
+
+#spinner.show {
+  visibility: visible;
+}
