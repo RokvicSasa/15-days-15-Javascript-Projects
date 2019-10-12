@@ -47,3 +47,9 @@ Joke Generator (Api from David_Katz)<br>
 Youtube Mucis Video Generator<br>
 [Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2009-%20Music%20Video%20Generator/)
 
+## Day 10
+
+Tic Tac Toe Game<br>
+[Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2010%20-%20Tic%20Tac%20Toe%20Game/)
+
+
