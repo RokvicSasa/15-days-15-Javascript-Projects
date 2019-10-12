@@ -40,12 +40,12 @@ Quiz Game<br>
 ## Day 08
 
 Joke Generator (Api from David_Katz)<br>
-[Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2008-%20Joke%20Generator/)
+[Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2008%20-%20Joke%20Generator/)
 
 ## Day 09
 
 Youtube Mucis Video Generator<br>
-[Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2009-%20Music%20Video%20Generator/)
+[Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2009%20-%20Music%20Video%20Generator/)
 
 ## Day 10
 
