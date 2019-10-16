@@ -1,0 +1,66 @@
+body {
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    background-color:#53307B;
+}
+.wrapper {
+    margin:10px;
+    text-align:center ;
+}
+h1 {
+    background-color:#3EE4B1;
+    font-size:15px;
+    color:#fbfbfb;
+    padding:40px 0px;
+    border-radius:5px;
+    -webkit-box-shadow: 0px 3px 19px 0px                 rgba(71, 83, 91, 0.49);
+    -moz-box-shadow:    0px 3px 19px 0px rgba(71, 83, 91, 0.49);
+    box-shadow:         0px 3px 19px 0px rgba(71, 83, 91, 0.49);
+}
+#input {
+    clear:both;
+    padding:10px 20px;
+    margin:20px 0px;
+    Border:0px;
+    border-radius:5px;
+    -webkit-box-shadow: 0px 3px 19px 0px                 rgba(71, 83, 91, 0.49);
+    -moz-box-shadow:    0px 3px 19px 0px rgba(71, 83, 91, 0.49);
+    box-shadow:         0px 3px 19px 0px rgba(71, 83, 91, 0.49);
+}
+.output {
+    background-color:#fbfbfb;
+    padding:10px 20px;
+    margin:20px 0px;
+    Border:0px;
+    border-radius:5px;
+    -webkit-box-shadow: 0px 3px 19px 0px                 rgba(71, 83, 91, 0.49);
+    -moz-box-shadow:    0px 3px 19px 0px rgba(71, 83, 91, 0.49);
+    box-shadow:         0px 3px 19px 0px rgba(71, 83, 91, 0.49);
+}
+#btn {
+    background-color:#fbfbfb;
+    padding:10px 20px;
+    margin:20px 0px;
+    Border:0px;
+    border-radius:5px;
+    -webkit-box-shadow: 0px 3px 19px 0px                 rgba(71, 83, 91, 0.49);
+    -moz-box-shadow:    0px 3px 19px 0px rgba(71, 83, 91, 0.49);
+    box-shadow:         0px 3px 19px 0px rgba(71, 83, 91, 0.49);
+}
+
+#change {
+    font-size:15px;
+    color:#fbfbfb;
+    background-color:#56C6CC;
+    padding:10px 20px;
+    margin:20px 0px;
+    Border:0px;
+    border-radius:5px;
+    -webkit-box-shadow: 0px 3px 19px 0px                 rgba(71, 83, 91, 0.49);
+    -moz-box-shadow:    0px 3px 19px 0px rgba(71, 83, 91, 0.49);
+    box-shadow:         0px 3px 19px 0px rgba(71, 83, 91, 0.49);
+}
+
+
+
