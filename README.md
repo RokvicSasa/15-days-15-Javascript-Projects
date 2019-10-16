@@ -62,3 +62,8 @@ Temperature Converter<br>
 ToDo App<br>
 [Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2012%20-%20ToDo%20App/)
 
+## Day 13
+
+Rock Paper Scissors Game<br>
+[Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2013%20-%20Rock%20Paper%20Scissors%20Game/)
+
