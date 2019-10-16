@@ -52,4 +52,13 @@ Youtube Mucis Video Generator<br>
 Tic Tac Toe Game<br>
 [Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2010%20-%20Tic%20Tac%20Toe%20Game/)
 
+## Day 11
+
+Temperature Converter<br>
+[Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2011%20-%20Temperature%20Converter/)
+
+## Day 12
+
+ToDo App<br>
+[Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2012%20-%20ToDo%20App/)
 
