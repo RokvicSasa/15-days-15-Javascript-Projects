@@ -67,3 +67,13 @@ ToDo App<br>
 Rock Paper Scissors Game<br>
 [Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2013%20-%20Rock%20Paper%20Scissors%20Game/)
 
+## Day 14
+
+Roll The Dice Simulator<br>
+[Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2014%20-%20Roll%20The%20Dice%20Simulator/)
+
+## Day 14
+
+Snake Game<br>
+[Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2015%20-%20Snake%20Game/)
+
