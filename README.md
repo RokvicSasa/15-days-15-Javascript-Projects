@@ -72,7 +72,7 @@ Rock Paper Scissors Game<br>
 Roll The Dice Simulator<br>
 [Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2014%20-%20Roll%20The%20Dice%20Simulator/)
 
-## Day 14
+## Day 15
 
 Snake Game<br>
 [Preview](https://logovski.github.io/15-days-15-Javascript-Projects/Day%2015%20-%20Snake%20Game/)
