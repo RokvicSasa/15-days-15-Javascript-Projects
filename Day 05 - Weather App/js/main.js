@@ -1,7 +1,7 @@
 let latitude = 45.2517;
 let longitude = 19.8369;
 const darkSkyLink = "https://api.darksky.net/forecast/";
-const ApiKey = "108e46eaaac12a21361655ad2ba5cc56";
+const ApiKey = "";
 const corsAvoid = 'https://cors-anywhere.herokuapp.com/';
 
 var buildUrl = `${corsAvoid}${darkSkyLink}${ApiKey}/${latitude},${longitude}?lang=sr&units=si`;
